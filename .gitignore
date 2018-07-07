@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/ExampleApi/.vs/ExampleApi/v15
+/ExampleApi/ExampleApi/obj
